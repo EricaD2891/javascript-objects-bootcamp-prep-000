@@ -5,6 +5,6 @@ function updatePlaylist(playlist, Kiiara, Feels){
   return playlist
 }
 function removeFromPlaylist(playlist, BillieEilish){
-  delete playlist.BillieEilish
+  delete playlist.BillieEilish;
   return playlist
 }

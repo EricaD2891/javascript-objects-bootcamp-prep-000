@@ -6,5 +6,5 @@ function updatePlaylist(playlist, Kiiara, Feels){
 }
 function removeFromPlaylist(playlist, Rusko){
   delete playlist.Rusko
-  return playlist
+  playlist
 }
